@@ -1,0 +1,23 @@
+# System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# Node
+node_modules/
+
+# Agent & Logs
+.agent/logs/temp_*
+.agent/logs/*.log
+# Keep checkpoints and session logs, but maybe ignore extremely large temp files if any
+
+# Sensitive
+.env
