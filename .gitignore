@@ -15,7 +15,9 @@ env/
 node_modules/
 
 # Agent System (Default Ignore)
-.agent/
+.agent/*
+!.agent/.gitignore
+
 
 # --- Whitelist / Exceptions (Project Specific Resources) ---
 
