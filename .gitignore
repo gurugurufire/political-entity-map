@@ -14,10 +14,26 @@ env/
 # Node
 node_modules/
 
-# Agent & Logs
-.agent/logs/temp_*
-.agent/logs/*.log
-# Keep checkpoints and session logs, but maybe ignore extremely large temp files if any
+# Agent System (Default Ignore)
+.agent/
+
+# --- Whitelist / Exceptions (Project Specific Resources) ---
+
+# 1. Rules
+!.agent/custom_rules/
+.agent/custom_rules/*
+!.agent/custom_rules/Scrap_Template.md
+!.agent/custom_rules/Analyzer_Guidelines.md
+
+# 2. Skills
+!.agent/skills/
+.agent/skills/*
+!.agent/skills/youtube-transcript/
+
+# 3. Workflows
+!.agent/workflows/
+.agent/workflows/*
+!.agent/workflows/youtube-scrap.md
 
 # Sensitive
 .env
