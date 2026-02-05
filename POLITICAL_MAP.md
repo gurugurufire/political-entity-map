@@ -1,5 +1,5 @@
 # 🗺️ Political Entity & Source Map (Aggregated)
-Generated on: 2026/02/05 22:57
+Generated on: 2026/02/06 01:32
 
 ## 👥 1. Entity Analysis (勢力図)
 | Entity | Avg. Sentiment | Mentions | Primary Stance(s) | Sources |
@@ -7,17 +7,17 @@ Generated on: 2026/02/05 22:57
 | **習近平** | 🔴 -0.85 | 2 | Absolute Dictator, Ruthless Consolidator | 深田萌絵TV, 竹田恒泰チャンネル 2 |
 | **人民解放軍** | 🔴 -0.55 | 2 | Tool of Dictator (Purged), Weakened Institution | 深田萌絵TV, 竹田恒泰チャンネル 2 |
 | **台湾** | ⚪ 0.00 | 1 | Target of Invasion | 竹田恒泰チャンネル 2 |
-| **Donald Trump** | ⚪ 0.13 | 6 | Peace Broker / Mastermind, Aggressive/Pragmatic, Disrupter of Old Order, Scandal Target, Defender/Target, Defender | Sky News Australia, おみそちゃんねる【世界どん深闇ニュース】, あつまれニュースの森, BOGDAN in Ukraine |
+| **Donald Trump** | ⚪ 0.13 | 6 | Scandal Target, Defender/Target, Peace Broker / Mastermind, Defender, Disrupter of Old Order, Aggressive/Pragmatic | あつまれニュースの森, BOGDAN in Ukraine, おみそちゃんねる【世界どん深闇ニュース】, Sky News Australia |
 | **Elon Musk** | 🔴 -0.50 | 2 | Involved/Denying, Questionable Respondent | BOGDAN in Ukraine |
 | **Bill Gates** | 🔴 -0.70 | 2 | Involved/Denying, Exposed Associate | BOGDAN in Ukraine |
 | **Democratic Party** | ⚪ 0.30 | 1 | Accuser | BOGDAN in Ukraine |
-| **Vladimir Putin** | ⚪ -0.22 | 5 | Strategic Partner, Tough Negotiator, Weakened Authority, Watcher, Aggressor (Infraterrorism) | Sky News Australia, BOGDAN in Ukraine, ゆっくり防衛チャンネル, あつまれニュースの森 |
-| **Xi Jinping** | 🔴 -0.83 | 3 | Insecure Purger, Target of Containment, Paranoid/Authoritarian | ゆっくり防衛チャンネル, 深田萌絵TV, あつまれニュースの森 |
-| **Globalists (DS)** | 🔴 -1.00 | 2 | Systemic Corruptors, Old System Holders | BOGDAN in Ukraine, あつまれニュースの森 |
-| **Volodymyr Zelenskyy** | ⚪ -0.05 | 2 | Critical Participant, Defender (Internal Issues) | Sky News Australia, BOGDAN in Ukraine |
+| **Vladimir Putin** | ⚪ -0.22 | 5 | Tough Negotiator, Watcher, Aggressor (Infraterrorism), Weakened Authority, Strategic Partner | あつまれニュースの森, BOGDAN in Ukraine, ゆっくり防衛チャンネル, Sky News Australia |
+| **Xi Jinping** | 🔴 -0.83 | 3 | Insecure Purger, Target of Containment, Paranoid/Authoritarian | あつまれニュースの森, ゆっくり防衛チャンネル, 深田萌絵TV |
+| **Globalists (DS)** | 🔴 -1.00 | 2 | Old System Holders, Systemic Corruptors | あつまれニュースの森, BOGDAN in Ukraine |
+| **Volodymyr Zelenskyy** | ⚪ -0.05 | 2 | Critical Participant, Defender (Internal Issues) | BOGDAN in Ukraine, Sky News Australia |
 | **Vitali Klitschko** | ⚪ -0.20 | 1 | Kyiv Mayor (Conflicts w/ Gov) | BOGDAN in Ukraine |
 | **Zhang Youxia** | 🔴 -0.40 | 1 | Fallen Inner Circle | 深田萌絵TV |
-| **高市早苗** | ⚪ 0.17 | 4 | Target, Defender | おみそちゃんねる【世界どん深闇ニュース】, 悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー, ひろゆきの政【政治・経済・社会専門切り抜きチャンネル】 |
+| **高市早苗** | ⚪ 0.17 | 4 | Defender, Target | ひろゆきの政【政治・経済・社会専門切り抜きチャンネル】, 悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー, おみそちゃんねる【世界どん深闇ニュース】 |
 | **野田佳彦** | 🔴 -0.70 | 1 | Target | 悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー |
 | **鈴木貴子** | 🔴 -0.60 | 1 | Defender | 悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー |
 | **森永卓郎** | 🟢 0.90 | 1 | Accuser | 悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー |
@@ -47,6 +47,8 @@ Generated on: 2026/02/05 22:57
 | **PLA Top Brass** | 🔴 -0.70 | 1 | Purged/Corrupt | ゆっくり防衛チャンネル |
 | **Iran Regime** | 🔴 -0.80 | 1 | Anti-West/Vulnerable | BOGDAN in Ukraine |
 | **US Navy** | 🟢 0.50 | 1 | Dominant | BOGDAN in Ukraine |
+| **Upper Jaw Sinus** | ⚪ 0.00 | 1 | Target of Care | めぐわ先生のセルフケア教室 |
+| **Ethmoid Sinus** | ⚪ 0.00 | 1 | Target of Care | めぐわ先生のセルフケア教室 |
 
 ### 🌀 Political Entity Landscape
 ```mermaid
@@ -101,6 +103,8 @@ quadrantChart
     "PLA Top Brass": [0.15, 0.10]
     "Iran Regime": [0.10, 0.10]
     "US Navy": [0.75, 0.10]
+    "Upper Jaw Sinus": [0.50, 0.10]
+    "Ethmoid Sinus": [0.50, 0.10]
 ```
 
 ## 🌐 2. Information Source Analysis (発信者マップ)
@@ -117,6 +121,7 @@ quadrantChart
 | **Sky News Australia** | 0.20 | 0.60 | ☀️ 0.50 |
 | **宇宙ヤバイch** | 0.00 | 0.80 | ☁️ 0.20 |
 | **ゆっくり防衛チャンネル** | 0.00 | 0.50 | ☁️ 0.10 |
+| **めぐわ先生のセルフケア教室** | 0.00 | 0.00 | ☀️ 1.00 |
 
 ### 🌀 Source Bias Landscape
 ```mermaid
@@ -139,4 +144,5 @@ quadrantChart
     "Sky News Australia": [0.60, 0.80]
     "宇宙ヤバイch": [0.50, 0.90]
     "ゆっくり防衛チャンネル": [0.50, 0.75]
+    "めぐわ先生のセルフケア教室": [0.50, 0.50]
 ```
