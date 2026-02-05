@@ -1,23 +1,23 @@
 # 🗺️ Political Entity & Source Map (Aggregated)
-Generated on: 2026/02/05 00:58
+Generated on: 2026/02/05 22:57
 
 ## 👥 1. Entity Analysis (勢力図)
 | Entity | Avg. Sentiment | Mentions | Primary Stance(s) | Sources |
 | :--- | :---: | :---: | :--- | :--- |
-| **習近平** | 🔴 -0.85 | 2 | Ruthless Consolidator, Absolute Dictator | 深田萌絵TV, 竹田恒泰チャンネル 2 |
-| **人民解放軍** | 🔴 -0.55 | 2 | Weakened Institution, Tool of Dictator (Purged) | 深田萌絵TV, 竹田恒泰チャンネル 2 |
+| **習近平** | 🔴 -0.85 | 2 | Absolute Dictator, Ruthless Consolidator | 深田萌絵TV, 竹田恒泰チャンネル 2 |
+| **人民解放軍** | 🔴 -0.55 | 2 | Tool of Dictator (Purged), Weakened Institution | 深田萌絵TV, 竹田恒泰チャンネル 2 |
 | **台湾** | ⚪ 0.00 | 1 | Target of Invasion | 竹田恒泰チャンネル 2 |
-| **Donald Trump** | ⚪ 0.12 | 5 | Defender, Disrupter of Old Order, Defender/Target, Scandal Target, Peace Broker / Mastermind | BOGDAN in Ukraine, Sky News Australia, あつまれニュースの森, おみそちゃんねる【世界どん深闇ニュース】 |
-| **Elon Musk** | 🔴 -0.50 | 2 | Questionable Respondent, Involved/Denying | BOGDAN in Ukraine |
+| **Donald Trump** | ⚪ 0.13 | 6 | Peace Broker / Mastermind, Aggressive/Pragmatic, Disrupter of Old Order, Scandal Target, Defender/Target, Defender | Sky News Australia, おみそちゃんねる【世界どん深闇ニュース】, あつまれニュースの森, BOGDAN in Ukraine |
+| **Elon Musk** | 🔴 -0.50 | 2 | Involved/Denying, Questionable Respondent | BOGDAN in Ukraine |
 | **Bill Gates** | 🔴 -0.70 | 2 | Involved/Denying, Exposed Associate | BOGDAN in Ukraine |
 | **Democratic Party** | ⚪ 0.30 | 1 | Accuser | BOGDAN in Ukraine |
-| **Vladimir Putin** | ⚪ -0.13 | 3 | Tough Negotiator, Aggressor (Infraterrorism), Strategic Partner | BOGDAN in Ukraine, Sky News Australia, あつまれニュースの森 |
-| **Xi Jinping** | 🔴 -0.85 | 2 | Insecure Purger, Target of Containment | 深田萌絵TV, あつまれニュースの森 |
-| **Globalists (DS)** | 🔴 -1.00 | 2 | Old System Holders, Systemic Corruptors | BOGDAN in Ukraine, あつまれニュースの森 |
-| **Volodymyr Zelenskyy** | ⚪ -0.05 | 2 | Critical Participant, Defender (Internal Issues) | BOGDAN in Ukraine, Sky News Australia |
+| **Vladimir Putin** | ⚪ -0.22 | 5 | Strategic Partner, Tough Negotiator, Weakened Authority, Watcher, Aggressor (Infraterrorism) | Sky News Australia, BOGDAN in Ukraine, ゆっくり防衛チャンネル, あつまれニュースの森 |
+| **Xi Jinping** | 🔴 -0.83 | 3 | Insecure Purger, Target of Containment, Paranoid/Authoritarian | ゆっくり防衛チャンネル, 深田萌絵TV, あつまれニュースの森 |
+| **Globalists (DS)** | 🔴 -1.00 | 2 | Systemic Corruptors, Old System Holders | BOGDAN in Ukraine, あつまれニュースの森 |
+| **Volodymyr Zelenskyy** | ⚪ -0.05 | 2 | Critical Participant, Defender (Internal Issues) | Sky News Australia, BOGDAN in Ukraine |
 | **Vitali Klitschko** | ⚪ -0.20 | 1 | Kyiv Mayor (Conflicts w/ Gov) | BOGDAN in Ukraine |
 | **Zhang Youxia** | 🔴 -0.40 | 1 | Fallen Inner Circle | 深田萌絵TV |
-| **高市早苗** | ⚪ 0.17 | 4 | Defender, Target | ひろゆきの政【政治・経済・社会専門切り抜きチャンネル】, 悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー, おみそちゃんねる【世界どん深闇ニュース】 |
+| **高市早苗** | ⚪ 0.17 | 4 | Target, Defender | おみそちゃんねる【世界どん深闇ニュース】, 悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー, ひろゆきの政【政治・経済・社会専門切り抜きチャンネル】 |
 | **野田佳彦** | 🔴 -0.70 | 1 | Target | 悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー |
 | **鈴木貴子** | 🔴 -0.60 | 1 | Defender | 悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー |
 | **森永卓郎** | 🟢 0.90 | 1 | Accuser | 悪の秘密ぼっち「ヘライザー総統」と言う名のファンタジー |
@@ -35,10 +35,18 @@ Generated on: 2026/02/05 00:58
 | **萩生田光一** | 🟢 0.80 | 1 | Defender | おみそちゃんねる【世界どん深闇ニュース】 |
 | **ひろゆき** | 🔴 -0.70 | 1 | Skeptic | おみそちゃんねる【世界どん深闇ニュース】 |
 | **Steve Witkoff** | 🟢 0.70 | 1 | Personal Negotiator | Sky News Australia |
+| **標準宇宙論 (ΛCDM)** | ⚪ 0.00 | 1 | 主流派モデル (危機) | 宇宙ヤバイch |
+| **宇宙原理** | 🔴 -0.50 | 1 | 否定されつつある前提 | 宇宙ヤバイch |
+| **宇宙双極子異常** | 🟢 0.50 | 1 | 新発見の観測事実 | 宇宙ヤバイch |
 | **週刊文春** | 🔴 -0.80 | 1 | Accuser | おみそちゃんねる【世界どん深闇ニュース】 |
 | **安住淳** | 🔴 -0.70 | 1 | Target | おみそちゃんねる【世界どん深闇ニュース】 |
 | **森下千里** | 🟢 0.90 | 1 | Defender | おみそちゃんねる【世界どん深闇ニュース】 |
 | **憲法改正** | 🟢 0.90 | 1 | Defender | おみそちゃんねる【世界どん深闇ニュース】 |
+| **Russian Duma Speaker** | 🔴 -0.80 | 1 | Aggressive Rhetoric | ゆっくり防衛チャンネル |
+| **Valery Gerasimov** | 🔴 -0.90 | 1 | Corrupt/Incompetent | ゆっくり防衛チャンネル |
+| **PLA Top Brass** | 🔴 -0.70 | 1 | Purged/Corrupt | ゆっくり防衛チャンネル |
+| **Iran Regime** | 🔴 -0.80 | 1 | Anti-West/Vulnerable | BOGDAN in Ukraine |
+| **US Navy** | 🟢 0.50 | 1 | Dominant | BOGDAN in Ukraine |
 
 ### 🌀 Political Entity Landscape
 ```mermaid
@@ -50,26 +58,26 @@ quadrantChart
     quadrant-2 "⚠️ High Profile / Critical"
     quadrant-3 "🔍 Niche / Skeptical"
     quadrant-4 "🌱 Emerging / Support"
-    "習近平": [0.07, 0.30]
-    "人民解放軍": [0.22, 0.30]
+    "習近平": [0.07, 0.26]
+    "人民解放軍": [0.22, 0.26]
     "台湾": [0.50, 0.10]
-    "Donald Trump": [0.56, 0.90]
-    "Elon Musk": [0.25, 0.30]
-    "Bill Gates": [0.15, 0.30]
+    "Donald Trump": [0.57, 0.90]
+    "Elon Musk": [0.25, 0.26]
+    "Bill Gates": [0.15, 0.26]
     "Democratic Party": [0.65, 0.10]
-    "Vladimir Putin": [0.43, 0.50]
-    "Xi Jinping": [0.07, 0.30]
-    "Globalists (DS)": [0.02, 0.30]
-    "Volodymyr Zelenskyy": [0.47, 0.30]
+    "Vladimir Putin": [0.39, 0.74]
+    "Xi Jinping": [0.08, 0.42]
+    "Globalists (DS)": [0.02, 0.26]
+    "Volodymyr Zelenskyy": [0.47, 0.26]
     "Vitali Klitschko": [0.40, 0.10]
     "Zhang Youxia": [0.30, 0.10]
-    "高市早苗": [0.59, 0.70]
+    "高市早苗": [0.59, 0.58]
     "野田佳彦": [0.15, 0.10]
     "鈴木貴子": [0.20, 0.10]
     "森永卓郎": [0.95, 0.10]
     "財務省": [0.05, 0.10]
     "統一教会": [0.05, 0.10]
-    "自民党": [0.50, 0.50]
+    "自民党": [0.50, 0.42]
     "トヨタ": [0.50, 0.10]
     "日本国民": [0.05, 0.10]
     "ホメイニ": [0.05, 0.10]
@@ -81,10 +89,18 @@ quadrantChart
     "萩生田光一": [0.90, 0.10]
     "ひろゆき": [0.15, 0.10]
     "Steve Witkoff": [0.85, 0.10]
+    "標準宇宙論 (ΛCDM)": [0.50, 0.10]
+    "宇宙原理": [0.25, 0.10]
+    "宇宙双極子異常": [0.75, 0.10]
     "週刊文春": [0.10, 0.10]
     "安住淳": [0.15, 0.10]
     "森下千里": [0.95, 0.10]
     "憲法改正": [0.95, 0.10]
+    "Russian Duma Speaker": [0.10, 0.10]
+    "Valery Gerasimov": [0.05, 0.10]
+    "PLA Top Brass": [0.15, 0.10]
+    "Iran Regime": [0.10, 0.10]
+    "US Navy": [0.75, 0.10]
 ```
 
 ## 🌐 2. Information Source Analysis (発信者マップ)
@@ -99,6 +115,8 @@ quadrantChart
 | **元戦場カメラマン・旅野そら** | 0.50 | -0.50 | ☁️ -0.20 |
 | **おみそちゃんねる【世界どん深闇ニュース】** | 0.50 | -0.60 | ☀️ 0.50 |
 | **Sky News Australia** | 0.20 | 0.60 | ☀️ 0.50 |
+| **宇宙ヤバイch** | 0.00 | 0.80 | ☁️ 0.20 |
+| **ゆっくり防衛チャンネル** | 0.00 | 0.50 | ☁️ 0.10 |
 
 ### 🌀 Source Bias Landscape
 ```mermaid
@@ -119,4 +137,6 @@ quadrantChart
     "元戦場カメラマン・旅野そら": [0.75, 0.25]
     "おみそちゃんねる【世界どん深闇ニュース】": [0.75, 0.20]
     "Sky News Australia": [0.60, 0.80]
+    "宇宙ヤバイch": [0.50, 0.90]
+    "ゆっくり防衛チャンネル": [0.50, 0.75]
 ```

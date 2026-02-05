@@ -9,14 +9,19 @@ def extract_metadata_from_md(file_path):
     
     # Find JSON blocks inside the metadata section
     # Matches: ```json ... ``` inside a ## Mapping Metadata section (with optional emoji)
-    pattern = r'## .*?Mapping Metadata\s+```json\s+(.*?)\s+```'
+    # allowing for text in between header and code block
+    pattern = r'## .*?Mapping Metadata.*?```json\s+(.*?)\s+```'
     match = re.search(pattern, content, re.IGNORECASE | re.DOTALL)
     
     if match:
         try:
-            return json.loads(match.group(1))
-        except json.JSONDecodeError:
-            print(f"Error decoding JSON in {file_path}")
+            data = json.loads(match.group(1))
+            print(f"DEBUG: Successfully extracted JSON used from {file_path}")
+            return data
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON in {file_path}: {e}")
+    else:
+        print(f"DEBUG: No JSON match found in {file_path}")
     return None
 
 def aggregate_data(data_dir, target_tag=None):
@@ -30,7 +35,9 @@ def aggregate_data(data_dir, target_tag=None):
                 # Tag filtering
                 if target_tag:
                     project_tags = meta.get("project_tags", [])
+                    print(f"DEBUG: Processing {filename}, Tags: {project_tags}, Target: {target_tag}")
                     if target_tag not in project_tags:
+                        print(f"DEBUG: Skipped {filename} due to tag mismatch (Has: {project_tags})")
                         continue
                 
                 source_info = meta.get("source", {})
@@ -131,7 +138,7 @@ if __name__ == "__main__":
     data_folder = "d:/VSCode/政治ネタ収集/data"
     output_file = "d:/VSCode/政治ネタ収集/POLITICAL_MAP.md"
     
-    results, sources = aggregate_data(data_folder, target_tag="Political")
+    results, sources = aggregate_data(data_folder, target_tag=None)
     report = generate_report(results, sources)
     
     with open(output_file, 'w', encoding='utf-8') as f:
