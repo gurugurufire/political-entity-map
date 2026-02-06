@@ -135,7 +135,7 @@ def generate_report(entities_map, sources_map):
     return "\n".join(lines)
 
 if __name__ == "__main__":
-    data_folder = "d:/VSCode/政治ネタ収集/data"
+    data_folder = "d:/VSCode/政治ネタ収集/docs/research/scraps"
     output_file = "d:/VSCode/政治ネタ収集/POLITICAL_MAP.md"
     
     results, sources = aggregate_data(data_folder, target_tag=None)

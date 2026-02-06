@@ -22,7 +22,7 @@ python .agent/skills/youtube-transcript/scripts/get_transcript.py "VIDEO_URL" --
 解析（スコアリング）に関しては `.agent/custom_rules/Analyzer_Guidelines.md` の基準に従います。
 
 - **役割**: テンプレートによる構造の固定化とコンテキストの節約。
-- **成果物**: `data/YYYY-MM-DD_Title_Scrap.md`
+- **成果物**: `docs/research/scraps/YYYY-MM-DD_Title_Scrap.md`
 
 ### 3. マッピングの反映 (Entity Mapping)
 動画に登場する人物や組織のスタンスを解析し、`IDEA_BOARD.md` で提案された「スタンス・マッピング」の形式で記録します。
@@ -31,6 +31,6 @@ python .agent/skills/youtube-transcript/scripts/get_transcript.py "VIDEO_URL" --
 一時ファイル（`.agent/logs/temp_*`）を削除して、環境をクリーンに保ちます。
 
 ## 成功の定義
-- `data/` フォルダに適切なファイル名でスクラップが保存されている。
+- `docs/research/scraps/` フォルダに適切なファイル名でスクラップが保存されている。
 - スクラップ内にソース情報とメタデータが正確に記載されている。
 - `TaskBoard.md` が更新されている。

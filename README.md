@@ -14,16 +14,16 @@ YouTube上の政治・時事ニュース動画を収集・解析し、情報の�
 - **Tools**:
     - `yt-dlp`: 動画メタデータ・字幕取得
     - `mapping_tool.py`: スクレイピングデータの集計・可視化スクリプト
-    - `data/`: スクラップデータの格納庫
+    - `docs/research/scraps/`: スクラップデータの格納庫
 
 ## 🚀 使い方 (Usage)
 
 ### 1. スクレイピング
 YouTube動画からスクラップを作成します。（現在は自動化スクリプトを開発中）
-`data/` ディレクトリに所定のフォーマット（Markdown + JSON Metadata）でファイルを作成してください。
+`docs/research/scraps/` ディレクトリに所定のフォーマット（Markdown + JSON Metadata）でファイルを作成してください。
 
 ### 2. マッピング生成
-以下のコマンドを実行すると、`data/` 内の全ファイルを解析し、最新の `POLITICAL_MAP.md` を生成します。
+以下のコマンドを実行すると、`docs/research/scraps/` 内の全ファイルを解析し、最新の `POLITICAL_MAP.md` を生成します。
 ```bash
 python src/mapping_tool.py
 ```
